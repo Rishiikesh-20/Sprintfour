@@ -1,0 +1,47 @@
+MEMORANDUM
+
+To: Human Resources Department
+From: Operations
+Date: March 14, 2024
+Re: Employee Background Check — Robert Harmon
+
+This memo concerns the pending background verification for Robert Harmon, who applied
+for the Senior Operations Analyst position on March 10, 2024.
+
+Mr. Harmon provided the following contact information during the application process:
+
+  Primary phone: (415) 882-3947
+  Email: robert.harmon@gmail.com
+  Home address: 2241 Birchwood Lane, Sacramento, CA 95814
+  Social Security Number: 847-29-3015
+
+Please note that HR should also follow up with Rob Harmon directly — he mentioned a
+preferred callback number of 415.882.3948 that he uses for work correspondence.
+(Note: the above is a second phone-number-shaped string the model is likely to miss.)
+
+For identity verification purposes, we are attaching a copy of the government-issued
+ID provided by Robert. His date of birth is listed as 09/22/1986.
+
+---
+
+INTERNAL NOTES (not for distribution):
+
+The candidate's previous employer, Meridian Consulting Group, confirmed his dates of
+employment as January 2018 through February 2023. The reference contact at Meridian
+was listed as "the main office" — this phrase should NOT be redacted as it contains
+no personal information. (Edge case: model may over-redact "the main office" as ORG.)
+
+Compensation benchmarking was completed on March 12, 2024. The proposed salary
+band for this role is $95,000 – $115,000 annually, which is consistent with
+market data. The exact figure offered to Mr. Harmon will be confirmed by March 18, 2024.
+
+---
+
+APPROVALS:
+
+This background check request was reviewed and approved. Please route all follow-up
+correspondence to the HR inbox; do not contact Robert Harmon or Rob Harmon directly
+until the verification is complete.
+
+The social security number listed above (847-29-3015) has been verified against
+federal records. Please treat all information in this memo as strictly confidential.

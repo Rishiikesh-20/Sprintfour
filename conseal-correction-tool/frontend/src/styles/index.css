@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Consistency-alert highlight pulse — monochrome ring */
+@keyframes pulse-border {
+  0%, 100% { box-shadow: 0 0 0 2px transparent; }
+  50%       { box-shadow: 0 0 0 2px #0f172a; }
+}
+
+.span-pulse {
+  animation: pulse-border 0.9s ease-in-out 3;
+}
